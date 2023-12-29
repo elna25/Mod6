@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="picture/logo umm.png" alt="Logo" width="180" height="180">
+    <img src="logo umm.png" alt="Logo" width="180" height="180">
 
 <h1 align="center">Rock, Paper, Scissors Prediction</h1>
   <p align="center">
@@ -15,7 +15,7 @@
 
 ## DATASET 
 <div>
-    <img src="picture/dataset.jpeg" alt="dataset" width="75%">
+    <img src="dataset.jpeg" alt="dataset" width="75%">
 </div>
 
 
